@@ -2,6 +2,8 @@
 dPanda WebIDE is a portion of the dPanda project that contains only the WebIDE.
 The WebIDE is "JSFiddle" style editor that supports XSLT and GatewayScript and the execution of the code.
 
+![alt text](https://raw.githubusercontent.com/Tangram-Soft/dpanda.ide/master/dpandaide.jpeg "dPanda IDE")
+
 ## Getting Started
 
 ### Prerequisites
