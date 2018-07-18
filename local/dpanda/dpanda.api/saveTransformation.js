@@ -1,5 +1,5 @@
 var hm = require('header-metadata');
-hm.current.set('Content-Type', 'application/json');
+hm.current.set('Content-Type', 'application/xml');
 
 session.input.readAsJSON (function (readAsJSONError, json) {
     if (readAsJSONError) { console.log(readAsJSONError); }

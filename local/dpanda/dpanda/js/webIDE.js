@@ -63,7 +63,7 @@ $(function() {
 	var responseEditor = ace.edit("response-area");
 	responseEditor.setTheme("ace/theme/twilight");
 	responseEditor.$blockScrolling = Infinity;
-	responseEditor.session.setMode("ace/mode/javasript");
+	responseEditor.session.setMode("ace/mode/javascript");
 	responseEditor.renderer.setScrollMargin(10, 10);
 	responseEditor.setOptions({ autoScrollEditorIntoView: true });
 
