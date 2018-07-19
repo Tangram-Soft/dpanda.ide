@@ -12,7 +12,8 @@ The WebIDE is "JSFiddle" style editor that supports XSLT and GatewayScript and t
 
 ### Installing
 The docker image is available on Dockerhub.
-```docker pull dorser/dpanda.ide
+```sh
+docker pull dorser/dpanda.ide
 ```
 
 ### Contributing
@@ -23,7 +24,8 @@ git clone https://github.com/Tangram-Soft/dpanda.ide.git
 ```
 
 Build the docker image using docker build.
-```docker build -t tangramsoft/dpanda.ide
+```sh
+docker build -t tangramsoft/dpanda.ide
 ```
 
 
